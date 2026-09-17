@@ -1,0 +1,1 @@
+Alerta("funciona el script")
